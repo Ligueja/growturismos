@@ -1,3 +1,38 @@
+<b>PROGRAMA STARTER FULL STACK WEB - GROWDEV</b>
+
+<b>Módulo: REACT 1</b>
+
+<b>ATIVIDADE PRÁTICA ReactJS - Growturismo</b>
+
+Replicar a pagina abaixo e seus componentes: 
+
+https://growturismo.vercel.app/
+
+<b>Resultado:</b>
+
+Página Home:
+
+<img src="https://github.com/Ligueja/growturismos/blob/main/src/assets/pagehome.jpg" width="600"/>
+
+Página Quem Somos:
+
+<img src="https://github.com/Ligueja/growturismos/blob/main/src/assets/pagequemsomos.jpg" width="600"/>
+
+Página Serviços:
+
+<img src="https://github.com/Ligueja/growturismos/blob/main/src/assets/pageservicos.jpg" width="600"/>
+
+Página Planos:
+
+<img src="https://github.com/Ligueja/growturismos/blob/main/src/assets/pageplanos.jpg" width="600"/>
+
+Página Contatos:
+
+<img src="https://github.com/Ligueja/growturismos/blob/main/src/assets/pagecontato.jpg" width="600"/>
+
+
+<b>Tecnologias utilizadas:</b>
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
